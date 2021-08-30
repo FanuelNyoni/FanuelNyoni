@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fanuel Nyoni
 - 👀 I’m interested in Games/Software development
-- 🌱 I’m a self taught developer, currently working on my own projects in web development
-- 💞️ I’m looking to collaborate on any projets involving game development mostly then software engineering
+- 🌱 I’m a self taught developer, currently working on my own portfolio projects in web development
+- 💞️ I’m looking to collaborate on any projets involving web or software development.
 - 📫 How to reach me Fancyee10@gmail.com
 
 <!---
